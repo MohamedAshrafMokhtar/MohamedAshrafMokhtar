@@ -34,7 +34,7 @@ My ambition is to become a high-impact **AI Engineer**. Rather than treating mac
   <img src="https://img.shields.io/badge/Python-Fluent-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-Proficient-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-Proficient-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-Familiar-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-Proficient-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 ### 📐 Mathematical Foundations
@@ -56,7 +56,6 @@ My ambition is to become a high-impact **AI Engineer**. Rather than treating mac
 <p>
   <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-Code_Collaboration-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux%2FUNIX-CLI_Environments-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-Development-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
@@ -68,34 +67,3 @@ My ambition is to become a high-impact **AI Engineer**. Rather than treating mac
 * 🤖 **Applied Machine Learning:** Studying supervised/unsupervised learning theory and translating mathematical equations into clean, vector-optimized code.
 * 🧠 **Deep Learning Architectures:** Building understanding of perceptrons, backpropagation mechanics, activation functions, and foundational neural network topologies.
 * ⚙️ **AI Engineering Principles:** Best practices for reproducible machine learning workflows, code modularity, and algorithm complexity analysis.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAshrafMokhtar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAshrafMokhtar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAshrafMokhtar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-I am always interested in discussing machine learning, algorithms, mathematics, and collaborative projects. Feel free to reach out!
-
-* 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) *(Replace with your actual handle)*
-* 🌐 **Portfolio Website:** [mohamedashrafmokhtar.github.io/personal-portfolio-website](https://mohamedashrafmokhtar.github.io/personal-portfolio-website/)
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-
-<div align="center">
-  <sub>Built with continuous learning and mathematical curiosity.</sub>
-</div>
